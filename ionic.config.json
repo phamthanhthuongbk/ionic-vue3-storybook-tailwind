@@ -1,0 +1,7 @@
+{
+  "name": "myionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
