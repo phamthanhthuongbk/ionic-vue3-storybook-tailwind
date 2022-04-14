@@ -4,7 +4,7 @@
     <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
 
     <div class=" w-full flex justify-between items-center">
-      <div>Toi La</div>
+      <div class=" text-green-900">Toi La</div>
 
       <div>
       <div>
@@ -30,4 +30,8 @@ export default defineComponent({
 </script>
 
 <style scoped>
+/* .items-center {
+  color: brown;
+} */
+
 </style>
