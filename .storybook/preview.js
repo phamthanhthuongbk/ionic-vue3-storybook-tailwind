@@ -19,6 +19,8 @@ import '@/theme/variables.css';
 
 /* taiwind */
 import '@/theme/main.css';
+import { app } from '@storybook/vue3';
+import { IonicVue } from '@ionic/vue';
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -29,3 +31,4 @@ export const parameters = {
     },
   },
 }
+app.use(IonicVue)
