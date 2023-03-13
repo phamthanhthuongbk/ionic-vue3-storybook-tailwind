@@ -8,7 +8,9 @@
     <ion-content :fullscreen="true">
       <ion-header collapse="condense">
         <ion-toolbar>
-          <ion-title size="large">Tab 2</ion-title>
+          <ion-title size="large">
+            Tab 2
+          </ion-title>
         </ion-toolbar>
       </ion-header>
       
